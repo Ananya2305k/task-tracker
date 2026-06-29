@@ -3,8 +3,8 @@
 A full-featured task management application built with the MERN stack (MongoDB, Express.js, React, Node.js).
 
 ## 🌐 Live Demo
-- **Frontend:** [Deployed on Vercel/Netlify] *(add your URL here)*
-- **Backend API:** [Deployed on Render] *(add your URL here)*
+- **Frontend:** [Deployed on Vercel/Netlify] (https://task-tracker-three-rouge.vercel.app)
+- **Backend API:** [Deployed on Render] (https://taskflow-backend-hapm.onrender.com)
 
 ---
 
